@@ -2,6 +2,6 @@
        </div>
    </div>
    <!-- Footer -->
-   <footer><p>@2024 by MLB SHOP 123</p></footer>
+   <footer><p>@2024 by MLB SHOP </p></footer>
 </body>
 </html>    
