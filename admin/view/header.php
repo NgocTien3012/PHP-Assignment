@@ -32,6 +32,6 @@
        <div class="col-md-10">
            <div class="top">
                <p>TRANG ADMIN CỦA SHOP MLB</p>
-               <div><span>Ngọc Tiến</span><img width="30px" height="30px" src="https://inkythuatso.com/uploads/images/2022/05/hinh-anh-meo-bua-buon-cuoi-nhat-12-09-56-39.jpg" alt=""></div>
+               <div><span>Huỳnh Ngọc Tiến</span><img width="30px" height="30px" src="https://inkythuatso.com/uploads/images/2022/05/hinh-anh-meo-bua-buon-cuoi-nhat-12-09-56-39.jpg" alt=""></div>
            </div>
            <div class="content">
